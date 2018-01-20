@@ -25,6 +25,7 @@ class PlaySoundsVeiwController: UIViewController {
     var audioPlayerNode: AVAudioPlayerNode!
     var stopTimer: Timer!
     var test = "qwerty"
+    var test2 = "hihihihihi"
     
     
     enum ButtonType: Int {
